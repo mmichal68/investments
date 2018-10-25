@@ -17,7 +17,7 @@ mvn clean test
   
   public methods:
   
-  *`processFunds` - to calculate percentage and amount.
+  *`processFunds` - to calculate percentage (accuracy 0.01%) and amount (accuracy 0.01PLN).
   
   *`calcRemainder` - to calculate the remainder.
 
