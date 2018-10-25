@@ -16,8 +16,10 @@ mvn clean test
 * `InvestmentCalculation.java`:
   
   public methods:
-  *`processFunds` - to calculate percentage and amount
-  *`calcRemainder` - to calculate the remainder
+  
+  *`processFunds` - to calculate percentage and amount.
+  
+  *`calcRemainder` - to calculate the remainder.
 
 ## Utils
 
